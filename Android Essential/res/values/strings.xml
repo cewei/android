@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"></string>
+    <string name="man_menu_title">Main Menu</string>
+    <string name="disclaimer">disclaimer</string>
+</resources>
